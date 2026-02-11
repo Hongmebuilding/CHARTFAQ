@@ -48,7 +48,7 @@ numpy==2.2.6
 ollama==0.6.1
 orjson==3.11.7
 ormsgpack==1.12.2
-packaging @ file:///home/task_176104877067765/conda-bld/packaging_1761049113113/work
+packaging ==24.1
 pandas==2.3.3
 pillow==12.1.0
 propcache==0.4.1
